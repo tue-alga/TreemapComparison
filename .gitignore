@@ -38,4 +38,4 @@ data/outputTreemaps
 .Rproj.user
 
 #remove process files
-.xlsx
+*.xlsx
