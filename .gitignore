@@ -1,0 +1,39 @@
+bin/*
+output/*
+log
+
+
+# NetBeans specific #
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nbbuild.xml
+nb-configuration.xml
+
+build.xml
+manifest.mf
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Do allow libary filder
+!libraries/*.jar
+
+#remove experimental results
+experiment/
+
+#remove output
+*.rect
+data/outputTreemaps
+
+#remove R files
+.Rproj.user
+
