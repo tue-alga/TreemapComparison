@@ -1,5 +1,5 @@
 This repository contains the source code and data used for the paper: "Quantitative Comparison of Time-Dependent Treemaps". It heavily borrows from the source code from the paper "Stable Treemaps via Local Moves".
-
+A more detailed explanation of the datasets, the intermediate output of the algorithms, and the figures in the paper can be found at https://eduardovernier.github.io/dynamic-treemap-resources-eurovis/docs/treemaps/datasets/.
 
 Algorithms implemented:
 
